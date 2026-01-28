@@ -1,0 +1,25 @@
+var endpoints = []string{
+	"/cgi-bin/get_kernel_log.cgi",
+	"/cgi-bin/get_system_info.cgi",
+	"/cgi-bin/get_miner_conf.cgi",
+	"/cgi-bin/stats.cgi",
+	"/cgi-bin/get_blink_status.cgi",
+	"/cgi-bin/get_multi_option.cgi",
+	"/cgi-bin/miner_pools.cgi",
+	"/cgi-bin/miner_stats.cgi",
+	"/cgi-bin/miner_summary.cgi",
+	"/cgi-bin/get_network_info.cgi",
+	"/cgi-bin/monitor.cgi",
+	"/cgi-bin/hlog.cgi",
+}
+var endpoints2 = []string{
+	"/cgi-bin/log.cgi",
+	"/cgi-bin/pools.cgi",
+	"/cgi-bin/stats.cgi",
+	"/cgi-bin/get_system_info.cgi",
+	"/cgi-bin/get_miner_conf.cgi",
+	"/cgi-bin/get_network_info.cgi",
+	"/cgi-bin/get_blink_status.cgi",
+	"/cgi-bin/summary.cgi",
+	"/cgi-bin/hlog.cgi",
+}
